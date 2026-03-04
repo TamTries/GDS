@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A DIP switch turns on the seven segment display. Currently AND gate is on input a and b and produced output 0.
+
 
 ## How to test
 
-Explain how to use your project
-
+turn on the switches and turn them off to display lines on the seven segment display
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven Segment Display, DIP switch
